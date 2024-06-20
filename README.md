@@ -1,7 +1,7 @@
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
-<h2 align="centre">Hi 👋! My name is Abhishek Raj</h2>
+<h1 align="center">Hi 👋! My name is Abhishek Raj</h1>
 
 ###
 
