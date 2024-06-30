@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="163" src="https://digiportfolio.online/wp-content/uploads/2024/06/unnamed.png"  />
+<img align="right" height="163" src="https://digiportfolio.online/wp-content/uploads/2024/06/cropped-newLogoTransparentReduce.png"  />
 
 ###
 
