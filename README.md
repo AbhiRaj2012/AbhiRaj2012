@@ -61,9 +61,3 @@
 ###
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbhiRaj2012/AbhiRaj2012/output/snake.svg" alt="Snake animation" />
-
-###
